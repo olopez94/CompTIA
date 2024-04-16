@@ -1,0 +1,1 @@
+In the newly updated Fifth Edition of CompTIA Linux+ Study Guide: Exam XK0-005, IT industry veterans and tech education gurus Richard Blum and Christine Bresnahan deliver a concise and practical blueprint to success on the CompTIA Linux+ exam and in your first role as a Linux network or system administrator.
